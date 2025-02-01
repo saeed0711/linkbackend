@@ -64,7 +64,7 @@ route.post("/create",auth,async(req,res)=>{
 
 // extracting host name from url 
   const host='https://linkbackend-gl1h.onrender.com/url/find'
-
+// https://linkbackend-gl1h.onrender.com/url/find
   //console.log(host+" "+url+" "+summery+" "+expdate+" "+req.ip);
 
 //generating shortalphnumric string 
