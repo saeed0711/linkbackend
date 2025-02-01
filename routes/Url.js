@@ -63,7 +63,7 @@ route.post("/create",auth,async(req,res)=>{
     const userid=req.userid;
 
 // extracting host name from url 
-  const host='https://linkbackend-gl1h.onrender.com'
+  const host='https://linkbackend-gl1h.onrender.com/url/find'
 
   //console.log(host+" "+url+" "+summery+" "+expdate+" "+req.ip);
 
